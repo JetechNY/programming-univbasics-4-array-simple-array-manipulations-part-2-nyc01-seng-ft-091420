@@ -6,7 +6,7 @@ def using_insert(arr1, ele)
 arr1.insert ele
 end
 
-def using_uniq(arr1)    
+def using_uniq(arr1)
 arr1.uniq
 end
 
